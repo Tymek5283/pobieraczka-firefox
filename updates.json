@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "sesja-filmana@pobieraczka.avd": {
+      "updates": [
+        {
+          "version": "1.1.1",
+          "update_link": "https://tymek5283.github.io/pobieraczka-firefox/wersje/pobieraczka-firefox-1.1.1.xpi",
+          "update_hash": "sha256:6c45597efb76f944dc465a8e28d28cce6044ec1d58614ca3df1654d7fb4873ea"
+        }
+      ]
+    }
+  }
+}
